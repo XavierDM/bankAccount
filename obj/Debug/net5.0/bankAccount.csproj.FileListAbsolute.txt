@@ -1,0 +1,16 @@
+/home/xavierdm/bankAccount/bin/Debug/net5.0/bankAccount
+/home/xavierdm/bankAccount/bin/Debug/net5.0/bankAccount.deps.json
+/home/xavierdm/bankAccount/bin/Debug/net5.0/bankAccount.runtimeconfig.json
+/home/xavierdm/bankAccount/bin/Debug/net5.0/bankAccount.runtimeconfig.dev.json
+/home/xavierdm/bankAccount/bin/Debug/net5.0/bankAccount.dll
+/home/xavierdm/bankAccount/bin/Debug/net5.0/ref/bankAccount.dll
+/home/xavierdm/bankAccount/bin/Debug/net5.0/bankAccount.pdb
+/home/xavierdm/bankAccount/obj/Debug/net5.0/bankAccount.csproj.AssemblyReference.cache
+/home/xavierdm/bankAccount/obj/Debug/net5.0/bankAccount.GeneratedMSBuildEditorConfig.editorconfig
+/home/xavierdm/bankAccount/obj/Debug/net5.0/bankAccount.AssemblyInfoInputs.cache
+/home/xavierdm/bankAccount/obj/Debug/net5.0/bankAccount.AssemblyInfo.cs
+/home/xavierdm/bankAccount/obj/Debug/net5.0/bankAccount.csproj.CoreCompileInputs.cache
+/home/xavierdm/bankAccount/obj/Debug/net5.0/bankAccount.dll
+/home/xavierdm/bankAccount/obj/Debug/net5.0/ref/bankAccount.dll
+/home/xavierdm/bankAccount/obj/Debug/net5.0/bankAccount.pdb
+/home/xavierdm/bankAccount/obj/Debug/net5.0/bankAccount.genruntimeconfig.cache
